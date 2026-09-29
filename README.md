@@ -71,3 +71,5 @@ The architecture (Mongoose models → controllers → routes on the server; serv
 components on the client) is set up so additional modules — Pharmacy, Laboratory, IPD/Bed Management,
 Staff, Departments, Reports, etc. — can be added following the same pattern as Patients/Appointments/
 Billing without restructuring anything already built.
+
+ ## Live Demo **Website:** https://eternity-hospital.vercel.app **Demo login:** admin@eternity.com / admin123
